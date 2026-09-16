@@ -1,5 +1,24 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 287
+
+### Formation is not changed consequence
+
+**Direction:** Test explicit bass, percussion and filtered formations by whether their exit changes the successor rather than treating material definition as structural consequence.
+
+**Ingredients:**
+
+- Omar S — *Tecky Alexander* → Lenson — *Paladin* → Jeff Mills — *Foundry* — parked; filtered release-side strangeness does not establish the candidate's individual trajectory or endpoint
+- Hodge — *Ingress* → Priori — *Isolation Dub* → DjRUM — *Crawl* → 50Dix — *IF U WANT 2* — placement-specific reject; rolling percussion and sparse synth interruption add another complete formation without changing the plateau that follows
+- Sciahri — *Moonwake* → Darren Nye — *Perception Shift* → Recue — *Raataja* → Hodge — *Ingress* — placement-specific reject; a bassline-led turn adds an intermediate stage without changing the existing burst/disappearance crisis and reformation
+- Underground Resistance, Jeff Mills, Confusion, Bliss Inc and Simon Baker — unresolved exact-title research directions; Human Space Machine remained an unselected exact alternate
+
+**Why interesting:** All three exact candidates propose legible material states. Only the evidence-limited one remains open; the other two fail at their tested placements because their exits do not make the successor do different work.
+
+**Boundary:** The Lenson hypothesis requires materially richer exact-track or listener evidence, lawful audio evidence or a changed journey need. The Priori and Darren Nye verdicts reject only their documented placements. The alternate and unresolved identities received no musical verdict.
+
+**Unknown / risk:** Exact handoffs, endpoints, BPM, perceived pulse, energy, density, space, hypnosis, emotion, phrasing and mixability remain unknown. Audio analysis and live mixing were not tested.
+
 ## Current additions — Run 283
 
 ### A short foreground is still a foreground

@@ -1,5 +1,16 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 287 — exact inspiration retained
+
+- Lenson — *Paladin* — `spotify:track:7o4AjVpGYE1o0cwE54d0IS` — exact 5:43.992 identity; PARKED at `Tecky Alexander → candidate → Foundry` because release-side framing does not establish individual development or endpoint.
+- Priori — *Isolation Dub* — `spotify:track:0JN6kJKDi9V4X30E0ges1Z` — exact 5:26.000 identity; placement-specific reject at `Ingress → candidate → Crawl`, retained for its documented rolling percussion, sparse synth interruptions and cavernous dub-techno space.
+- Darren Nye — *Perception Shift* — `spotify:track:2t4fem9GfYiqdebzA7CvvA` — exact 4:30.150 identity; placement-specific reject at `Moonwake → candidate → Raataja`, retained for its documented Mr Fingers-style bassline and deep-tech-soul lineage.
+- Human Space Machine — *Distance* resolved exactly as an unselected alternate and received no musical verdict or utility retention.
+- Research leads without verdict: Underground Resistance — *Goodtime*; Jeff Mills — *The Homosapien Sapiens*; Confusion — *Clay Bound*; Bliss Inc — *The Shake*; Simon Baker — *The Liptrict (Baker's Full Circle Mix)*.
+- Source direction: current Juno techno, minimal/tech-house and adjacent deep-house bestseller and new-release windows, catalogue represses and current label paths, checked 2026-09-15. Set direction retained: a vivid formation becomes structural only when its exit changes the successor's work.
+- Runs 284–286 failed request validation before lookup and supplied no identity or musical evidence; Run 287 completed under a fresh immutable runId.
+- Audio analysis and live mixing were not tested.
+
 ## Run 283 — exact inspiration retained
 
 - Christian Burkhardt — *Content Creator* — `spotify:track:2gQKv4rZXffhI5tCj7pOxF` — exact 2:46.593 identity; placement-specific reject at `Same Way → candidate → U Belong 2 Me`, retained for its documented bouncing bass, aloof vocal and terse quirky strut.

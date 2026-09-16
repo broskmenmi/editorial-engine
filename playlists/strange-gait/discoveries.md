@@ -1,5 +1,73 @@
 # STRANGE GAIT — Discoveries
 
+## Run 287 — 2026-09-15T23:59:00Z-explore-287
+
+Matching resolver snapshot: schemaVersion 2, sourceCommit `a739a5de66862569cb0316db5f2befe3fc91b413`, requestFingerprint `dc965cf6b73a8197e4d2f8b450c5ed94f2181dd8bb4b172cebf3377ca41996ea`, generated 2026-09-15T23:58:58.527Z, PARTIAL. Immutable request commit `bab1258b359b8b49eab85b2b8e197aed4dff5737`; resolver workflow `35037997992`; terminal snapshot commit `c56bc8f6345896a764dfa10480c5f5e5111cf56c`. Requested 9; resolved 4; selected 3; one unselected exact alternate; five unresolved; four metadata-variance warnings; no duplicates, substitutions, relinkings or terminal technical failure.
+
+### Lenson — Paladin — `spotify:track:7o4AjVpGYE1o0cwE54d0IS` — PARKED
+
+Exact Spotify duration 343,992 ms; Spotify album *TAR047*, release date 2026-09-14. Juno places the exact title on TAR 47's filtery-weird A-side, but supplies no individual development or endpoint.
+
+- Volume fit: provisional PASS. The filtered, unusual techno proposition is constitution-relevant.
+- Immediate transition: UNKNOWN at `Tecky Alexander → Paladin → Foundry`; neither handoff, exact endpoint nor phrasing was heard or documented.
+- Five-track consequence: UNKNOWN through `Cave → Abundance → Tecky Alexander → Paladin → Foundry`. Shared release-side framing cannot show whether the candidate establishes a useful object for *Foundry* or only prolongs the existing patterned-to-destabilized passage.
+- Long-form effect: UNKNOWN. The exact 5:43.992 identity is verified, but individual trajectory and exit are decision-critical.
+- Verdict: PARKED. Reopen only for materially richer exact-track trajectory or endpoint evidence, lawful audio evidence, changed journey need or explicit listener evidence.
+- Unknown: BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability.
+
+### Priori — Isolation Dub — `spotify:track:0JN6kJKDi9V4X30E0ges1Z` — placement-specific REJECT
+
+Exact Spotify duration 326,000 ms; Spotify album *9*, release date 2026-03-13. Juno attributes rolling percussion interrupted by sparse synth stabs within cavernous, woolly dub-techno framing to the exact track.
+
+- Volume fit: PASS.
+- Immediate transition: UNKNOWN at `Ingress → Isolation Dub → Crawl`; neither handoff nor endpoint was heard or documented.
+- Five-track consequence: FAIL proportionally through `Raataja → Ingress → Isolation Dub → Crawl → IF U WANT 2`. The candidate adds another complete rolling-and-interrupted formation before *Crawl*'s existing sustained-motion plateau.
+- Long-form effect: FAIL at this placement. The documented material is distinct, but there is no evidence that its exit changes *Crawl*'s work or the later threshold into *IF U WANT 2*.
+- Verdict: placement-specific REJECT. The track remains genuinely interesting and is not globally rejected.
+- Unknown: exact development, endpoint, BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability.
+
+### Darren Nye — Perception Shift — `spotify:track:2t4fem9GfYiqdebzA7CvvA` — placement-specific REJECT
+
+Exact Spotify duration 270,150 ms; Spotify album *Lunar Refraction EP*, release date 2026-08-28. Juno says the exact track leans into a Mr Fingers-style bassline within Darren Nye's deep-tech-soul lineage.
+
+- Volume fit: PASS.
+- Immediate transition: UNKNOWN at `Moonwake → Perception Shift → Raataja`; neither handoff nor endpoint was heard or documented.
+- Five-track consequence: FAIL proportionally through `Humanoidz → Moonwake → Perception Shift → Raataja → Ingress`. The bassline-led formation adds an intermediate deep-tech-soul turn without evidence that it changes *Raataja*'s burst-and-disappearance crisis or *Ingress*'s later reformation.
+- Long-form effect: FAIL at this placement. The individual bassline reference establishes material identity, not a changed successor task.
+- Verdict: placement-specific REJECT. The track remains genuinely interesting and is not globally rejected.
+- Unknown: exact development, endpoint, BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability.
+
+### Exact unselected alternate
+
+Human Space Machine — *Distance* — `spotify:track:4c3r3Jd1LOmILU7x7cs2TX` — exact 408,726-ms identity, Spotify album *Cycle EP*, release date 2020-11-09. It remained unselected and received no musical verdict or utility retention.
+
+### Unresolved identities
+
+- Underground Resistance — *Goodtime*: `no exact Spotify title/artist search match in market SE`
+- Jeff Mills — *The Homosapien Sapiens*: `no exact Spotify title/artist search match in market SE`
+- Confusion — *Clay Bound*: `no exact Spotify title/artist search match in market SE`
+- Bliss Inc — *The Shake*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (0f4WgZMm0epPuXfkYTdk00, 5lQCZgoUNjhfoguzQKuC3H)`
+- Simon Baker — *The Liptrict (Baker's Full Circle Mix)*: `no exact Spotify title/artist search match in market SE`
+
+Each receives no musical verdict.
+
+### Resolver warnings
+
+- `Exact title/artist matched with release metadata variance: album requested "TAR 47" but Spotify returned "TAR047"; release date requested "2026-09-10" but Spotify returned "2026-09-14"`
+- `Exact title/artist matched with release metadata variance: release date requested "2026-09-01" but Spotify returned "2026-03-13"`
+- `Exact title/artist matched with release metadata variance: release date requested "2026-09-10" but Spotify returned "2026-08-28"`
+- `Exact title/artist matched with release metadata variance: album requested "Omformer (remixes)" but Spotify returned "Cycle EP"; release date requested "2026-09-15" but Spotify returned "2020-11-09"`
+
+### Failed immutable attempts and workflow health
+
+Runs 284–286 each failed request validation before Spotify lookup and produced no identity or musical evidence. Run 284 used an incorrect *Fulledge (Empty-40 Mix)* URI; Run 285 omitted the exact mix suffix in placement prose; Run 286 used incorrect *Jjochstubn* and *Rabbit Hole* URIs. Each attempt remained immutable and was replaced by a new runId. Run 287 corrected every boundary against the ledger and completed successfully. The repetition creates actionable workflow debt: future request construction should run the same adjacency/name validator before the immutable request commit, not only in Actions.
+
+### Auditor decision
+
+APPROVED. Pre-audit lawfully selected EXPLORE; all nine leads came from different releases and used fresh boundaries; the final immutable request and matching terminal snapshot are internally valid. Only the three selected exact identities were evaluated across volume fit, immediate transition, surrounding run and long-form effect. The two rejections are placement-specific, the PARK preserves decision-critical unknowns, the alternate and unresolved identities receive no musical verdict, no metadata-only energy or mix claim was made, and both protected handoffs remain untouched.
+
+No musical zero result is inferred from unresolved outcomes. Audio analysis and live mixing were not tested.
+
 ## Run 283 — 2026-09-15T22:51:52Z-explore-283
 
 Matching resolver snapshot: schemaVersion 2, sourceCommit `77c69b23499b506e81a7e134703076ec3cea22bf`, requestFingerprint `cf85948381dd649a06bd54b54fb446ef647d474aaa1e12f43fdfef17b24df1ac`, generated 2026-09-15T22:58:59.905Z, PARTIAL. Immutable request commit `af8de3e3fa60c0342a2f6f84b89a636740d7080e`; resolver workflow `35033541065`; terminal snapshot commit `935acff1b477ba58894e62a498130fadc7f460a5`. Requested 9; resolved 1; selected 1; eight unresolved; one metadata-variance warning; no alternates, duplicates, substitutions, relinkings or terminal technical failure.
