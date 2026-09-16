@@ -78,12 +78,13 @@ These thresholds diagnose the funnel; they never authorize padding or forced ADD
 ## Canonical candidate flow
 When honest leads exist:
 1. Read current main SHA immediately before writing.
-2. Derive every proposed-placement boundary directly from the current canonical ledger. For an internal insertion, `precedingUri` and `followingUri` must name an adjacent current pair. For a lawful before-opener or after-closer test, use `null` only for the absent side and reference the current opener or closer on the present side. Before writing, validate that each prose-named neighbour matches its URI. A mismatch blocks the request as `REQUEST_NOT_COMPLETED`; never commit stale URIs, resolve the request anyway, or silently fall back to prose after resolution.
-3. Write one immutable schemaVersion 2 `scout-request.json` with a new runId, current `sourceCommit`, mode, target, EXPLORE receipt and 1–9 ranked `leads`.
-4. Never reuse runId, write request-side candidates, mutate request content or combine diagnostic request writes with editorial state.
-5. Require the matching terminal `scout-data.json` with valid fingerprint.
-6. Evaluate only its selected one-to-three exact candidates.
-7. Preserve every warning, unresolved/duplicate outcome, resolved alternate and exact resolver error.
+2. Derive every proposed-placement boundary directly from the current canonical ledger. For an internal insertion, `precedingUri` and `followingUri` must name an adjacent current pair. For a lawful before-opener or after-closer test, use `null` only for the absent side and reference the current opener or closer on the present side. Before writing, validate that each prose-named neighbour matches its URI.
+3. Before the immutable commit, write the complete draft request and current ledger to temporary local files and run `node apps/spotify-scout/src/validate-proposed-placements.js <draft-request.json> <ledger.md>`. The exact draft bytes intended for commit must pass. A mismatch blocks the request as `REQUEST_NOT_COMPLETED`; never commit stale URIs, resolve the request anyway, or silently fall back to prose after resolution.
+4. Write one immutable schemaVersion 2 `scout-request.json` with a new runId, current `sourceCommit`, mode, target, EXPLORE receipt and 1–9 ranked `leads`.
+5. Never reuse runId, write request-side candidates, mutate request content or combine diagnostic request writes with editorial state.
+6. Require the matching terminal `scout-data.json` with valid fingerprint.
+7. Evaluate only its selected one-to-three exact candidates.
+8. Preserve every warning, unresolved/duplicate outcome, resolved alternate and exact resolver error.
 
 Technical resolver failures are `*_NOT_COMPLETED`, never musical zero. Never reuse stale scout data.
 

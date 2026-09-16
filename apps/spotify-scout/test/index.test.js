@@ -1,4 +1,7 @@
 import assert from 'node:assert/strict';
+import fs from 'node:fs/promises';
+import os from 'node:os';
+import path from 'node:path';
 import test from 'node:test';
 
 import {
@@ -18,6 +21,7 @@ import {
 } from '../src/index.js';
 import { validateRequestChange } from '../src/validate-request-change.js';
 import { validateRequestHistory } from '../src/validate-request-history.js';
+import { validateDraftFiles } from '../src/validate-proposed-placements.js';
 
 function lead(overrides = {}) {
   return {
@@ -425,4 +429,53 @@ test('malformed terminal snapshots are rejected even when request identities mat
     }],
   });
   assert.equal(snapshotStateForRequest(resolvedOnlyAsAlternate, current), 'CONFLICT');
+});
+
+test('draft placement validator runs before commit and rejects mismatched intended bytes', async () => {
+  const directory = await fs.mkdtemp(path.join(os.tmpdir(), 'spotify-scout-draft-'));
+  const requestPath = path.join(directory, 'scout-request.json');
+  const ledgerPath = path.join(directory, 'ledger.md');
+  const firstUri = 'spotify:track:1111111111111111111111';
+  const secondUri = 'spotify:track:2222222222222222222222';
+  const ledger = [
+    '| # | Artist | Track | Spotify URI | BPM |',
+    '|---:|---|---|---|---:|',
+    `| 1 | Artist One | Example One | ${firstUri} | — |`,
+    `| 2 | Artist Two | Example Two | ${secondUri} | — |`,
+  ].join('\n');
+  const valid = request({
+    leads: [lead({
+      proposedPlacements: [{
+        position: 'Between Example One and Example Two',
+        precedingUri: firstUri,
+        followingUri: secondUri,
+      }],
+    })],
+  });
+
+  await fs.writeFile(ledgerPath, ledger);
+  await fs.writeFile(requestPath, JSON.stringify(valid));
+  const receipt = await validateDraftFiles(requestPath, ledgerPath);
+  assert.deepEqual(receipt, {
+    runId: valid.runId,
+    leadCount: 1,
+    placementCount: 1,
+  });
+
+  await fs.writeFile(requestPath, JSON.stringify({
+    ...valid,
+    leads: [lead({
+      proposedPlacements: [{
+        position: 'Between Example One and Wrong Name',
+        precedingUri: firstUri,
+        followingUri: secondUri,
+      }],
+    })],
+  }));
+  await assert.rejects(
+    validateDraftFiles(requestPath, ledgerPath),
+    /prose must name current canonical neighbours/,
+  );
+
+  await fs.rm(directory, { recursive: true, force: true });
 });

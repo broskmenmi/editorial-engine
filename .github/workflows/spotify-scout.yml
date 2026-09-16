@@ -64,10 +64,18 @@ jobs:
           echo "should_run=true" >> "$GITHUB_OUTPUT"
 
       - name: Set up Node.js
-        if: steps.resolve.outputs.should_run == 'true'
         uses: actions/setup-node@v4
         with:
           node-version: 24
+
+      - name: Test scout lifecycle
+        run: node --test apps/spotify-scout/test/*.test.js
+
+      - name: Validate proposed placements
+        if: steps.resolve.outputs.should_run == 'true'
+        env:
+          PLAYLIST_DIR: ${{ steps.resolve.outputs.playlist_dir }}
+        run: node apps/spotify-scout/src/validate-proposed-placements.js "$PLAYLIST_DIR/scout-request.json" "$PLAYLIST_DIR/ledger.md"
 
       - name: Validate immutable scout request history
         if: steps.resolve.outputs.should_run == 'true'
@@ -115,10 +123,6 @@ jobs:
             echo "Resolver inputs changed after scout-request sourceCommit; create a new runId from current state."
             exit 1
           fi
-
-      - name: Test scout lifecycle
-        if: steps.resolve.outputs.should_run == 'true'
-        run: node --test apps/spotify-scout/test/*.test.js
 
       - name: Build scout data for target playlist
         if: steps.resolve.outputs.should_run == 'true'

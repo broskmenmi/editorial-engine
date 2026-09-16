@@ -1,5 +1,31 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 288 — REPAIR — validate placement drafts before immutable request commits
+
+Pre-audit reconciled 64 canonical identities and annotations, 63 generated transitions, COMPLETE Spotify receipts for STRANGE GAIT (64/64) and the global Discovery Pool (547/547), the empty active-discussion queue, no TRIGGERED revisit, exact protected order, valid UTF-8/JSON and no audio or live-mixing evidence. Run 287's Auditor-confirmed workflow finding was actionable: three consecutive request-construction attempts failed only after their immutable commits because neighbour names or URIs were transcribed incorrectly. The lane was therefore REPAIR.
+
+Repair run `2026-09-16T00:51:27Z-repair-288` closes that process defect without reopening a musical verdict or creating a Scout request.
+
+The failure mode was specific. The resolver already had strong adjacency and prose/URI validation, but it was reachable only after the request commit through the remote workflow. The repository supplied no standalone draft-validation entrypoint, the Scout instructions did not require executing the validator against the exact intended bytes before commit, and scout lifecycle tests were skipped on code-only workflow runs when no playlist request changed.
+
+The repair adds `apps/spotify-scout/src/validate-proposed-placements.js`, a credential-free CLI that reads a complete draft request and the current canonical ledger, requires schemaVersion 2, and invokes the same production request and placement validators used by the resolver. It checks current ledger membership, adjacency, opener/closer rules and exact normalized neighbour names before any Spotify lookup.
+
+Repository-level `AGENTS.md`, the generic Scout skill and this target's orchestrator now require the exact intended request bytes to pass:
+
+`node apps/spotify-scout/src/validate-proposed-placements.js <draft-request.json> <ledger.md>`
+
+before the immutable request write. Connector-only operation must first copy the current ledger and draft into temporary scratch files. A validation failure remains `REQUEST_NOT_COMPLETED` and must never be committed as a resolver attempt.
+
+The Spotify Scout workflow now runs its lifecycle suite on every code-path trigger, including code-only repair commits. For request commits it also executes the standalone placement validator explicitly before immutable-history validation and before any Spotify credential use. A new integration test proves that a valid draft passes and that altered intended bytes with a wrong neighbour name fail. The suite now contains 20 tests.
+
+No research scan, identity resolution, candidate evaluation, sequencing change or Discovery Pool harvest was required because this is a workflow repair, not a music decision. STRANGE GAIT remains 64 tracks and the protected `Transparency → When We Froze → Stardancer` sequence remains contiguous at positions 54–56. The global Discovery Pool remains 547 rows. Canonical publication inputs and journey annotations did not change, so no Spotify republish or map regeneration is required. The existing map remains current at 64 tracks, 63 transitions and 6h 24m, generated 2026-09-15T11:11:56.183Z with both protected handoffs present and 46 unavailable BPM values explicit.
+
+Workflow health: the immediately preceding scan needed four immutable request attempts, of which three (75%) failed before Spotify lookup for preventable transcription mismatches. This repair moves the existing production-grade placement checks to the pre-commit boundary and makes code-only CI exercise the tests. It does not prove that future research, identity resolution or musical evaluation will succeed; it removes the observed path by which known-invalid placement drafts entered immutable history.
+
+Auditor: APPROVED, conditional on the code-only workflow completing the 20-test lifecycle suite. The repair is repository-wide, preserves request immutability, changes no candidate or canonical state, and applies automatically if the recurring task is retargeted to another canonical playlist.
+
+**Audio analysis: NOT TESTED. Live mixing: NOT TESTED.**
+
 ## Run 287 — EXPLORE — a formed state still needs a consequential exit
 
 Pre-audit reconciled 64 canonical identities and annotations, 63 generated transitions, both COMPLETE Spotify receipts, the empty active-discussion queue, no TRIGGERED revisit, exact protected order, valid UTF-8/JSON and no audio or live-mixing evidence. No objective, listener-authorized or workflow-health repair was actionable at lane selection, so the lane was EXPLORE. Approximately 102 current, adjacent and overlooked catalogue items produced nine fresh leads from nine releases at boundaries not used in the previous five completed discovery runs.

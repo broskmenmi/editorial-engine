@@ -99,13 +99,14 @@ If two completed discovery runs within the previous five each PARK two or more s
 3. Inspect the current journey **inside-out** as well as the catalogue outside-in: ask where a new track could deepen, sharpen, release, redirect or extend the existing sequence, without inventing rigid chapter roles.
 4. Rank one to nine honest leads. Do not pad weak or metadata-only entries.
 5. Immediately before request write, read current repository SHA.
-6. Write one immutable schemaVersion 2 `scout-request.json` with a new `runId`, `sourceCommit`, mode, target, receipt and ranked `leads`. Never write request-side candidates or mutate the same runId later.
-7. Resolve once. Require the matching valid terminal `scout-data.json` and fingerprint.
-8. Evaluate only its selected one-to-three unique exact candidates. Preserve all unresolved/duplicate outcomes, warnings and exact resolver errors.
-9. Preserve known exact Spotify IDs when available; otherwise let the resolver perform exact search. Never invent IDs or substitute alternate versions.
-10. Obtain reliable BPM when available, but never infer energy or flow from it.
-11. Never infer busyness, stress, spaciousness, hypnosis, emotional effect, phrase structure, perceived pulse or mixability from artist/genre/title/label/BPM/search snippets.
-12. Do not invoke Spotify publication tools.
+6. Build the complete request as a temporary draft and validate its exact intended bytes against the current ledger with `node apps/spotify-scout/src/validate-proposed-placements.js <draft-request.json> <ledger.md>`. For connector-only operation, fetch the current ledger and write both values to temporary scratch files first. Do not commit the request unless the command exits successfully.
+7. Write one immutable schemaVersion 2 `scout-request.json` with a new `runId`, `sourceCommit`, mode, target, receipt and ranked `leads`. Never write request-side candidates or mutate the same runId later.
+8. Resolve once. Require the matching valid terminal `scout-data.json` and fingerprint.
+9. Evaluate only its selected one-to-three unique exact candidates. Preserve all unresolved/duplicate outcomes, warnings and exact resolver errors.
+10. Preserve known exact Spotify IDs when available; otherwise let the resolver perform exact search. Never invent IDs or substitute alternate versions.
+11. Obtain reliable BPM when available, but never infer energy or flow from it.
+12. Never infer busyness, stress, spaciousness, hypnosis, emotional effect, phrase structure, perceived pulse or mixability from artist/genre/title/label/BPM/search snippets.
+13. Do not invoke Spotify publication tools.
 
 ## Resolver outcomes
 - `COMPLETE`: every lead resolved.
