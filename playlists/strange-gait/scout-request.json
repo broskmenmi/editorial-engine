@@ -1,30 +1,30 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-09-16T05:57:38Z-explore-293",
-  "sourceCommit": "36a955a12eefc69a50fa71edebc50413f474006d",
+  "runId": "2026-09-16T06:58:45Z-explore-294",
+  "sourceCommit": "8ce108940829d3b0c4e90db1e0a6d0024edf5178",
   "mode": "EXPLORE",
   "target": "playlists/strange-gait",
   "explorationReceipt": {
-    "approximateInspectedScope": "Approximately 103 named tracks and releases across the current Juno techno bestseller and new-release windows, current Waveform Transmitter recommendations, Boomkat catalogue windows, adjacent electro, house and dub-techno paths, overlooked Detroit and early-2000s catalogue material, and the full 65-track canonical boundary map. Written attributed descriptions and exact listings only; no audio audition.",
+    "approximateInspectedScope": "Approximately 109 named tracks and releases across current Juno, Waveform Transmitter and Boomkat windows; Bandcamp Daily's September 15, 2026 South African gqom report; artist- and label-hosted pages; adjacent house, broken beat, Detroit electro and dub-techno paths; overlooked catalogue reissues; and the full 65-track canonical boundary map. Written attributed descriptions and exact listings only; no audio audition.",
     "exclusions": [
       "All required canonical, discussion, revisit, history, map and publication state passed pre-audit; no objective, listener-authorized, revisit or workflow-health REPAIR is actionable.",
       "Every canonical, previously evaluated, PARKED, placement-specific REJECT, preserved exact alternate, unresolved exact identity and repository-wide utility identity was excluded; same-title tracks by different artists were not conflated.",
-      "Nine leads come from nine releases; no release supplies more than one lead and no shared release framing is used to select multiple titles.",
+      "Nine leads come from nine releases; no release supplies more than one lead and no shared release framing selects multiple titles.",
       "Planned boundaries avoid those evaluated in the previous five completed discovery runs.",
-      "Current-release scanning is balanced with adjacent electro and house plus overlooked Detroit and early-2000s catalogue material rather than treated as a recency quota.",
-      "Retailer, artist-hosted and label prose is attributed rather than measured; identity, duration and all other musical dimensions require resolver or lawful evidence.",
+      "Current techno scanning is balanced with fresh South African gqom, adjacent house and broken beat, Detroit electro and overlooked catalogue material rather than treated as a recency quota.",
+      "Retailer, artist-hosted, label and journalistic prose is attributed rather than measured; identity, duration and other musical dimensions require resolver or lawful evidence.",
       "Neither listener-protected internal handoff is split."
     ],
     "rankedLeadSummary": [
-      "1. Model 500 — IDLE",
-      "2. Thor & Luke Hess — Induction",
-      "3. Luke Alessi — Dr Bongo",
-      "4. K Alexi Shelby — House Music De Chicago",
-      "5. Mark Ambrose — Reflections",
-      "6. Underground Resistance — Midnight Sunshine",
-      "7. Galaxy 2 Galaxy — Astral Apache",
-      "8. Black Meteoric Star — 5am Open Air Sunrise",
-      "9. Investigations Of A Dog — 11 July"
+      "1. Konduku — Kastanje",
+      "2. Dimensional Holofonic Sound — From Outerspace",
+      "3. Stephen Brown — Move It",
+      "4. PS11 — Mid Point",
+      "5. Terry Francis — Love Tiger",
+      "6. Dopplereffekt — Olbers Paradox",
+      "7. P Lastozi — Desperado",
+      "8. Mathoyizi — Gamer",
+      "9. Mrkiick — 911"
     ],
     "sourcesCheckedAt": "2026-09-16",
     "audioAnalysis": "NOT TESTED",
@@ -32,129 +32,61 @@
   },
   "leads": [
     {
-      "artist": "Model 500",
-      "track": "IDLE",
-      "album": "IDLE (remixes)",
-      "releaseDate": "2026-08-20",
+      "artist": "Konduku",
+      "track": "Kastanje",
+      "album": "VALA 5",
+      "releaseDate": "2026-07-31",
       "bpm": null,
       "bpmSource": null,
       "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/techno/charts/bestsellers/this-week/",
+      "discoverySource": "https://valaseries.bandcamp.com/album/vala-5",
       "searchIntent": "BOTH",
       "evidence": {
-        "craftConvention": "A crystalline electro-funk state matters when its exit gives the following compact formation a new consolidation task.",
+        "craftConvention": "Cyclical hypnosis matters when successive contour changes give the following pivot a defined state to redirect.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno describes IDLE as cyborg funk built from cantering basslines, crystalline electro rhythms, ice-cold machinery and withering vocals.",
-        "editorialInterpretation": "The exact-track description supplies a sharply formed mechanical-soul state before Where I Wanna Be's compact acid-vocal formation.",
+        "attributedDescription": "The artist-hosted VALA page describes Kastanje as metallic thump within an entrancing-rhythm and cyclical-hypnotism split; Juno describes metallic percussion and looping rhythmic interplay revealing fresh contours on successive passes.",
+        "editorialInterpretation": "The exact-track descriptions supply a changing metallic cycle before Humanoidz's direct reset.",
         "measured": [
-          "Juno lists the original mix at 5:25 and the release date as August 20, 2026.",
+          "The artist-hosted page lists Kastanje at 5:32 and VALA 5 as released July 31, 2026.",
           "Market-SE identity and exact Spotify duration require resolver evidence."
         ]
       },
-      "fitHypothesis": "A crystalline cyborg-funk state could make Where I Wanna Be a consequential tightening after Truth in Noise rather than another parallel formation.",
+      "fitHypothesis": "A changing metallic cycle could make Humanoidz a consequential reset after Freepass for Them.",
       "proposedPlacements": [
         {
-          "position": "Between Truth in Noise and Where I Wanna Be",
-          "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-          "followingUri": "spotify:track:2hUDsg1TEPrT4Cq3pISTWg",
+          "position": "Between Freepass for Them and Humanoidz",
+          "precedingUri": "spotify:track:6W7R8Juu9iycysgvKB5IZW",
+          "followingUri": "spotify:track:1lha9e4J2T1mHL9ChS6uB7",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether crystalline mechanical soul gives Where I Wanna Be a consequential compacting task."
+          "purpose": "Test whether a changing metallic cycle gives Humanoidz a consequential reset task."
         }
       ]
     },
     {
-      "artist": "Thor & Luke Hess",
-      "track": "Induction",
-      "album": "Third Wave",
+      "artist": "Dimensional Holofonic Sound",
+      "track": "From Outerspace",
+      "album": "Holofonic Cuts",
       "releaseDate": "2026-06-29",
       "bpm": null,
       "bpmSource": null,
       "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/techno/charts/bestsellers/this-week/",
+      "discoverySource": "https://www.deejay.de/Dimensional_Holofonic_Sound_aka_Dhs_Holofonic_Cuts_reissue_DHS999_Vinyl__1221032",
       "searchIntent": "BOTH",
       "evidence": {
-        "craftConvention": "A restrained drive earns space when its exit changes the successor's pivot rather than extending the same plateau.",
+        "craftConvention": "A long-form unsettled process earns space when its late lock changes the following fragment's job.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno describes Induction as a crisp but deep drive formed by analogue machines and rare samples, within a collaboration joining warm Detroit pulse to stripped-back Icelandic minimalism.",
-        "editorialInterpretation": "The exact-track description supplies a restrained tactile drive before Freepass for Them's insistent-groove-to-square-wave pivot.",
+        "attributedDescription": "The current reissue listing describes hypnotic loops, eerie atmospherics and restless low end across nearly twelve minutes; Resident Advisor's exact-track review describes fairground and UFO sounds, frantic screams and a later rugged heads-down stride.",
+        "editorialInterpretation": "The move from outer-limit oddity into a late physical stride could establish a formed state for Goink to fragment.",
         "measured": [
-          "Juno lists Induction at 6:22 and the release date as June 29, 2026.",
+          "The reissue listing dates Holofonic Cuts to June 29, 2026 and describes From Outerspace as almost twelve minutes.",
           "Market-SE identity and exact Spotify duration require resolver evidence."
         ]
       },
-      "fitHypothesis": "A crisp deep drive could give Freepass for Them a specific restrained formation to pivot away from after Too Much Time's widening.",
-      "proposedPlacements": [
-        {
-          "position": "Between Too Much Time and Freepass for Them",
-          "precedingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
-          "followingUri": "spotify:track:6W7R8Juu9iycysgvKB5IZW",
-          "incomingBpm": 140,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether a restrained tactile drive gives Freepass for Them a consequential pivot task."
-        }
-      ]
-    },
-    {
-      "artist": "Luke Alessi",
-      "track": "Dr Bongo",
-      "album": "Sex Machine EP",
-      "releaseDate": "2026-07-01",
-      "bpm": null,
-      "bpmSource": null,
-      "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/techno/charts/bestsellers/this-week/",
-      "searchIntent": "BOTH",
-      "evidence": {
-        "craftConvention": "A hand-drum proposition matters when its exit changes the next lock rather than merely restating percussion.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno describes Dr Bongo through fluttering hand-drum patterns and rolling groove science.",
-        "editorialInterpretation": "The exact-track description supplies a percussion-led rolling formation before Baghdad's existing lock.",
-        "measured": [
-          "Juno lists Dr Bongo at 5:31 and the release date as July 1, 2026.",
-          "Market-SE identity and exact Spotify duration require resolver evidence."
-        ]
-      },
-      "fitHypothesis": "A rolling hand-drum formation could make Baghdad a consequential hard lock after Amor's machine-to-hand-drum mutation.",
-      "proposedPlacements": [
-        {
-          "position": "Between Amor and Baghdad",
-          "precedingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
-          "followingUri": "spotify:track:0Uq3u6aQcfjGc03AtGmD8I",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether a rolling hand-drum formation gives Baghdad a consequential hard-lock task."
-        }
-      ]
-    },
-    {
-      "artist": "K Alexi Shelby",
-      "track": "House Music De Chicago",
-      "album": "QRV 205DTON26",
-      "releaseDate": "2026-07-28",
-      "bpm": null,
-      "bpmSource": null,
-      "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/techno/charts/bestsellers/this-week/",
-      "searchIntent": "BOTH",
-      "evidence": {
-        "craftConvention": "A recognisable house grammar can be structural when the following fragment process materially transforms it.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno describes House Music De Chicago as jazzy, unpretentious Latin-vocal-sample house with a low wind-tunnelling whoosh adding weight to its structure.",
-        "editorialInterpretation": "The exact-track description supplies a recognisable vocal-house object before Goink's recurring broken-syllable fragment process.",
-        "measured": [
-          "Juno lists House Music De Chicago at 8:02 and the release date as July 28, 2026.",
-          "Market-SE identity and exact Spotify duration require resolver evidence."
-        ]
-      },
-      "fitHypothesis": "A long vocal-house object could make Goink's fragmented utterance recurrence a consequential decomposition after FELT.",
+      "fitHypothesis": "A long eerie process that eventually locks could make Goink's recurrence a consequential fragmentation after FELT.",
       "proposedPlacements": [
         {
           "position": "Between FELT and Goink",
@@ -163,32 +95,100 @@
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether a recognisable vocal-house object gives Goink a consequential fragmentation task."
+          "purpose": "Test whether a late physical lock gives Goink a consequential fragmentation task."
         }
       ]
     },
     {
-      "artist": "Mark Ambrose",
-      "track": "Reflections",
-      "album": "Star System EP",
-      "releaseDate": "2026-05-15",
+      "artist": "Stephen Brown",
+      "track": "Move It",
+      "album": "The Safari EP",
+      "releaseDate": "2026-08-16",
       "bpm": null,
       "bpmSource": null,
       "spotifyTrackId": null,
       "discoverySource": "https://www.juno.co.uk/techno/charts/bestsellers/this-week/",
       "searchIntent": "BOTH",
       "evidence": {
-        "craftConvention": "Reflective electro earns a threshold placement only when its exit changes the successor's transformation task.",
+        "craftConvention": "A tough house formation matters when the next track materially destabilizes it.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno describes Reflections through meaningful inward-looking chords, ice-cold drums and a Mini Moog bassline.",
-        "editorialInterpretation": "The exact-track description supplies a reflective electro state before U Belong 2 Me's established four-on-the-floor-to-funereal threshold.",
+        "attributedDescription": "Juno describes Move It as tougher and Chicago-influenced, built from warped pads, loose hats and a heavy kick.",
+        "editorialInterpretation": "The exact-track description supplies a compact house object before Abundance begins the early widening passage.",
         "measured": [
-          "Juno lists Reflections at 7:03 and the release date as May 15, 2026.",
+          "Juno lists Move It at 6:02; the retailer page dates The Safari EP to August 16, 2026.",
           "Market-SE identity and exact Spotify duration require resolver evidence."
         ]
       },
-      "fitHypothesis": "A reflective electro state could make U Belong 2 Me's transformation into the protected-block opener more consequential after Same Way.",
+      "fitHypothesis": "A tough Chicago-derived formation could make Abundance's widening a consequential destabilization after Cave.",
+      "proposedPlacements": [
+        {
+          "position": "Between Cave and Abundance",
+          "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+          "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether a compact tough-house object gives Abundance a consequential destabilization task."
+        }
+      ]
+    },
+    {
+      "artist": "PS11",
+      "track": "Mid Point",
+      "album": "Stratos EP",
+      "releaseDate": "2026-09-07",
+      "bpm": 105,
+      "bpmSource": "https://www.beatport.com/track/mid-point/29721256",
+      "spotifyTrackId": null,
+      "discoverySource": "https://www.juno.co.uk/techno/charts/bestsellers/this-week/",
+      "searchIntent": "BOTH",
+      "evidence": {
+        "craftConvention": "A spacious broken-beat release point matters when its exit changes the following irregular body's task.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "attributedDescription": "Juno describes Mid Point as serene and spacious, with a broken beat and widescreen outlook; the label feature calls it an uplifting yet hard-hitting break and moment of release.",
+        "editorialInterpretation": "The exact-track descriptions supply a spacious release point before Capa's altered-gait articulation.",
+        "measured": [
+          "Beatport lists the original mix at 105 BPM and 6:29; the retailer listing dates Stratos EP to September 7, 2026.",
+          "Market-SE identity and exact Spotify duration require resolver evidence."
+        ]
+      },
+      "fitHypothesis": "A spacious broken-beat release could make Capa's altered-gait arrival consequential after Fulledge.",
+      "proposedPlacements": [
+        {
+          "position": "Between Fulledge (Empty-40 Mix) and Capa",
+          "precedingUri": "spotify:track:2azFGCXgxFGmyHYCvzVw4R",
+          "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+          "incomingBpm": null,
+          "candidateBpm": 105,
+          "outgoingBpm": null,
+          "purpose": "Test whether a spacious broken-beat release gives Capa a consequential altered-gait arrival."
+        }
+      ]
+    },
+    {
+      "artist": "Terry Francis",
+      "track": "Love Tiger",
+      "album": "Digitec",
+      "releaseDate": "2026-07-01",
+      "bpm": null,
+      "bpmSource": null,
+      "spotifyTrackId": null,
+      "discoverySource": "https://terryfrancissushitech.bandcamp.com/album/digitec",
+      "searchIntent": "BOTH",
+      "evidence": {
+        "craftConvention": "A haunted house state can sharpen a threshold only when its exit changes the successor's transformation.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "attributedDescription": "Juno describes Love Tiger through an eerie vocal, haunting bells and kicking drum patterns; the artist-hosted page verifies the exact title on Digitec.",
+        "editorialInterpretation": "The description supplies a haunted bodily frame before U Belong 2 Me's four-on-the-floor-to-funereal threshold.",
+        "measured": [
+          "The artist-hosted page lists Love Tiger at 6:49 and Digitec as released July 1, 2026.",
+          "Market-SE identity and exact Spotify duration require resolver evidence."
+        ]
+      },
+      "fitHypothesis": "A haunted house frame could make U Belong 2 Me's transformation more consequential after Same Way.",
       "proposedPlacements": [
         {
           "position": "Between Same Way and U Belong 2 Me",
@@ -197,143 +197,143 @@
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether reflective electro changes U Belong 2 Me's threshold transformation."
+          "purpose": "Test whether a haunted house frame changes U Belong 2 Me's threshold transformation."
         }
       ]
     },
     {
-      "artist": "Underground Resistance",
-      "track": "Midnight Sunshine",
-      "album": "Dark Energy",
-      "releaseDate": "2011-08-01",
+      "artist": "Dopplereffekt",
+      "track": "Olbers Paradox",
+      "album": "Metasymmetry",
+      "releaseDate": "2025-12-12",
       "bpm": null,
       "bpmSource": null,
       "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/techno/charts/bestsellers/this-week/",
+      "discoverySource": "https://dopplereffekt.bandcamp.com/album/metasymmetry",
       "searchIntent": "BOTH",
       "evidence": {
-        "craftConvention": "A rough melodic formation can deepen a late passage when its exit changes the following flare rather than delaying it.",
+        "craftConvention": "A beatific astral state matters when the following return materially grounds or disturbs it.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno identifies Midnight Sunshine through gorgeously rough key progressions within the austere-techno-to-thumping-house range of Dark Energy.",
-        "editorialInterpretation": "The exact-track description supplies a rough-keyed formation before Nukumori's brief flare.",
+        "attributedDescription": "Boomkat describes Olbers Paradox as wide-eyed astral projection opening into melancholic scenery, like an alien ensemble in a Martian cathedral; the artist-hosted page verifies the exact title.",
+        "editorialInterpretation": "The exact-track description supplies an opened-out astral state before FELT's renewed bodily premise.",
         "measured": [
-          "Juno lists the Dark Energy pressing with an August 1, 2011 release date and no duration for this title.",
+          "The artist-hosted page dates Metasymmetry to December 12, 2025; current digital catalogues list Olbers Paradox at 4:59.",
           "Market-SE identity and exact Spotify duration require resolver evidence."
         ]
       },
-      "fitHypothesis": "A rough melodic formation could give Nukumori a concrete keyed state to flare out of after It Never Made Sense.",
+      "fitHypothesis": "An opened-out astral state could make FELT's bodily return consequential after Trompe L'oeil.",
       "proposedPlacements": [
         {
-          "position": "Between It Never Made Sense and Nukumori",
-          "precedingUri": "spotify:track:0ZB4fbiKEhhUxHMXklcCPD",
-          "followingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
+          "position": "Between Trompe L'oeil and FELT",
+          "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
+          "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether a rough keyed formation gives Nukumori a consequential flare task."
+          "purpose": "Test whether an opened astral state gives FELT a consequential bodily return."
         }
       ]
     },
     {
-      "artist": "Galaxy 2 Galaxy",
-      "track": "Astral Apache",
-      "album": "Galaxy 2 Galaxy",
-      "releaseDate": "2026-06-18",
+      "artist": "P Lastozi",
+      "track": "Desperado",
+      "album": "Lunatic",
+      "releaseDate": "2026-06-13",
       "bpm": null,
       "bpmSource": null,
       "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/techno/charts/bestsellers/this-week/",
+      "discoverySource": "https://daily.bandcamp.com/scene-report/gqom-album-guide",
       "searchIntent": "BOTH",
       "evidence": {
-        "craftConvention": "An intergalactic techno-jazz proposition matters when its exit changes the following submerged drift.",
+        "craftConvention": "A middle withdrawal and full-stride return can matter when the successor redirects that formed exit.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno describes Astral Apache as carrying intergalactic energy within a release combining acid, synth-heavy jazz, analogue drums and futuristic vision.",
-        "editorialInterpretation": "The exact-title description supplies a techno-jazz state before Roxellana's submerged drift and backsliding's later rupture.",
+        "attributedDescription": "Bandcamp Daily describes rising electric melodies giving way to rough bass and sharp snares, a middle fall-away for lead melody and choral vocals, then a return to full stride with stuttering kicks and bass.",
+        "editorialInterpretation": "The documented withdrawal and full-stride return could establish a formed state for Té de Cabello Blanco to redirect.",
         "measured": [
-          "Juno lists Astral Apache at 5:17 and the repress date as June 18, 2026.",
-          "Market-SE identity, original release metadata and exact Spotify duration require resolver evidence."
-        ]
-      },
-      "fitHypothesis": "An intergalactic techno-jazz state could give Roxellana a consequential submergence after Pulse I's accumulation.",
-      "proposedPlacements": [
-        {
-          "position": "Between Pulse I and Roxellana",
-          "precedingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-          "followingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether techno-jazz formation gives Roxellana a consequential submergence task."
-        }
-      ]
-    },
-    {
-      "artist": "Black Meteoric Star",
-      "track": "5am Open Air Sunrise",
-      "album": "Wet",
-      "releaseDate": "2026-09-16",
-      "bpm": null,
-      "bpmSource": null,
-      "spotifyTrackId": null,
-      "discoverySource": "https://blackmeteoricstar.bandcamp.com/album/wet",
-      "searchIntent": "BOTH",
-      "evidence": {
-        "craftConvention": "A stripped electro horizon is useful when its exit changes the next rumble-to-weight threshold.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "The artist-hosted release notes position Wet as a continuation of Black Meteoric Star's dance-music, electro and political-spiritual project; Juno describes the album's world as sleek, stripped-back electro with sci-fi overtones and retro machines.",
-        "editorialInterpretation": "The exact title and album framing supply a possible open-air electro horizon before Worn Down's rumble-to-weight threshold, while individual development remains undocumented.",
-        "measured": [
-          "The artist-hosted Bandcamp page lists 5am Open Air Sunrise on Wet and releases the album September 16, 2026; Juno lists the track at 4:38.",
+          "The artist-hosted page lists Desperado at 5:52 and Lunatic as released June 13, 2026.",
           "Market-SE identity and exact Spotify duration require resolver evidence."
         ]
       },
-      "fitHypothesis": "A stripped electro horizon could make Worn Down's threshold more consequential after Foundry, provided the candidate's individual exit supports the change.",
+      "fitHypothesis": "A melodic withdrawal that regains full stride could give Té de Cabello Blanco a consequential redirection after Drummz.",
       "proposedPlacements": [
         {
-          "position": "Between Foundry and Worn Down",
-          "precedingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
-          "followingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
+          "position": "Between Drummz and Té de Cabello Blanco",
+          "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+          "followingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether a stripped electro horizon gives Worn Down a consequential threshold task."
+          "purpose": "Test whether a regained full stride gives Té de Cabello Blanco a consequential redirection task."
         }
       ]
     },
     {
-      "artist": "Investigations Of A Dog",
-      "track": "11 July",
-      "album": "Physics Of The Human Mind",
-      "releaseDate": "2022-11-14",
+      "artist": "Mathoyizi",
+      "track": "Gamer",
+      "album": "GQOM PACK 24",
+      "releaseDate": "2026-01-28",
       "bpm": null,
       "bpmSource": null,
       "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/techno/charts/bestsellers/this-week/",
+      "discoverySource": "https://daily.bandcamp.com/scene-report/gqom-album-guide",
       "searchIntent": "BOTH",
       "evidence": {
-        "craftConvention": "A sunny bubbling state can sharpen contrast when its exit changes the next rhythmic re-entry.",
+        "craftConvention": "A lightweight norm-breaking pulse matters when the following track materially focuses its instability.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno describes 11 July as sunny and gently bubbling in a release whose electro combines lively motion, dreamy optimism and subtle restraint.",
-        "editorialInterpretation": "The exact-track description supplies a bright restrained electro state before Egue into hs and Cave rebuild the early body grammar.",
+        "attributedDescription": "Bandcamp Daily describes low-gravity bass kicks, syncopation, swing and polyrhythms that periodically drop into darker territory while keeping uThayela deliberately lightweight.",
+        "editorialInterpretation": "The description supplies a mobile offbeat field before Sarniezz's compact altered-gait statement.",
         "measured": [
-          "Juno lists 11 July at 3:49 and the release date as November 14, 2022.",
+          "The label-hosted page lists Gamer at 4:15 and GQOM PACK 24 as released January 28, 2026.",
           "Market-SE identity and exact Spotify duration require resolver evidence."
         ]
       },
-      "fitHypothesis": "A bright restrained electro state could give Egue into hs a more consequential re-entry after Night D3 Died's mournful chord passage.",
+      "fitHypothesis": "A lightweight offbeat field could make Sarniezz a consequential focusing move after Capa.",
       "proposedPlacements": [
         {
-          "position": "Between Night D3 Died and Egue into hs",
-          "precedingUri": "spotify:track:2gGFSLPMYaslXwdbT9Vlpc",
-          "followingUri": "spotify:track:2HiLKItrGfvkF6F9KjJlRV",
+          "position": "Between Capa and Sarniezz",
+          "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+          "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether bright restrained electro gives Egue into hs a consequential rhythmic re-entry task."
+          "purpose": "Test whether a mobile offbeat field gives Sarniezz a consequential focusing task."
+        }
+      ]
+    },
+    {
+      "artist": "Mrkiick",
+      "track": "911",
+      "album": "Witchcraft IV",
+      "releaseDate": "2026-01-05",
+      "bpm": null,
+      "bpmSource": null,
+      "spotifyTrackId": null,
+      "discoverySource": "https://daily.bandcamp.com/scene-report/gqom-album-guide",
+      "searchIntent": "BOTH",
+      "evidence": {
+        "craftConvention": "Repeated intensity arcs can be structural when a final stable, mix-ready exit changes the next pivot.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "attributedDescription": "Bandcamp Daily describes repeated rises into chaotic chant-and-sub intensity that fall back into solid momentum, followed by a melodic-bass finale drifting off ready for the next mix.",
+        "editorialInterpretation": "The documented cycles and mix-ready melodic exit could establish a resolved formation before Freepass for Them pivots again.",
+        "measured": [
+          "The artist-hosted page lists 911 at 5:22 and Witchcraft IV as released January 5, 2026.",
+          "Market-SE identity and exact Spotify duration require resolver evidence."
+        ]
+      },
+      "fitHypothesis": "Repeated rise-and-stabilize cycles ending in melodic drift could make Freepass for Them a consequential pivot after Too Much Time.",
+      "proposedPlacements": [
+        {
+          "position": "Between Too Much Time and Freepass for Them",
+          "precedingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+          "followingUri": "spotify:track:6W7R8Juu9iycysgvKB5IZW",
+          "incomingBpm": 140,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether a mix-ready stable exit gives Freepass for Them a consequential pivot task."
         }
       ]
     }
