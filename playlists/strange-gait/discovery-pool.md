@@ -3,6 +3,18 @@ Total output lines: 1226
 
 # STRANGE GAIT — Discovery Pool
 
+## Run 293 — exact inspiration retained
+
+- Luke Alessi — *Dr Bongo* — `spotify:track:7FB8G0UrQEsQSgGv5lLiec` — exact 3:46.648 identity; placement-specific reject at `Amor → candidate → Baghdad`, retained for its documented fluttering hand-drum patterns and rolling groove science.
+- Galaxy 2 Galaxy — *Astral Apache* — `spotify:track:4gKMXEIv5piKHsTd2mnMPX` — exact 5:20.453 identity; placement-specific reject at `Pulse I → candidate → Roxellana`, retained for its documented intergalactic techno-jazz proposition.
+- Black Meteoric Star, Gavilán Rayna Russom — *5am Open Air Sunrise* — `spotify:track:4MjOKTdPBfF1egVNN01bdx` — exact 4:42.500 identity; PARKED at `Foundry → candidate → Worn Down` because release-world framing does not establish individual development or endpoint.
+
+Six Spotify-SE misses remain research leads: Model 500 — *IDLE*; Thor & Luke Hess — *Induction*; K Alexi Shelby — *House Music De Chicago*; Mark Ambrose — *Reflections*; Underground Resistance — *Midnight Sunshine*; Investigations Of A Dog — *11 July*.
+
+Useful current and adjacent paths: Juno's current techno bestseller and new-release windows, Black Meteoric Star's artist-hosted *Wet* page, Luke Alessi / Coffee Cola, Galaxy 2 Galaxy / Underground Resistance, Model 500 / Metroplex, Thor / Luke Hess, Mark Ambrose and Investigations Of A Dog.
+
+Set direction retained: a formed percussion or techno-jazz state becomes structural only when its exit changes the successor; release-world identity without an individual endpoint remains a parked question.
+
 ## Run 292 — exact inspiration retained
 
 - DJ Carpenter — *Backhanders* — `spotify:track:2EeOkQxNAU2qchRrajkNqU` — exact 3:55.000 identity; canonical ADD between *Tides Alternate* and *Serpentine Tale* for its documented pad-to-elastic-synth trajectory and formed euphoric endpoint.

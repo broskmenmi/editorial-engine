@@ -3,6 +3,66 @@ Total output lines: 2384
 
 # STRANGE GAIT — Discoveries
 
+## Run 293 — 2026-09-16T05:57:38Z-explore-293
+
+Matching resolver snapshot: schemaVersion 2, sourceCommit `36a955a12eefc69a50fa71edebc50413f474006d`, requestFingerprint `1ea396f46dcf55f33fada8b943073566b8f3bf8bf3f14426a0f4d664d0e77d07`, generated 2026-09-16T06:00:52.396Z, PARTIAL. Immutable request commit `95fd2ef32778991558fa09106e5f00a908b842ce`; terminal snapshot commit `241cb35c9ff0a06a4da7b9798a9d13e2b8664399`. Requested 9; resolved 3; selected 3; no exact unselected alternates; six unresolved; two metadata-variance warnings; no duplicates, substitutions, relinkings or terminal technical failure.
+
+The exact intended request bytes passed `validate-proposed-placements.js` against the current canonical ledger before the immutable commit.
+
+### Luke Alessi — Dr Bongo — `spotify:track:7FB8G0UrQEsQSgGv5lLiec` — placement-specific REJECT
+
+Exact Spotify duration 226,648 ms; Spotify album *Sex Machine EP*, release date 2026-06-25. [Juno](https://www.juno.co.uk/techno/charts/bestsellers/this-week/), checked 2026-09-16, describes the exact track through fluttering hand-drum patterns and rolling groove science.
+
+- Volume fit: PASS. The percussion-led rolling formation belongs within the volume's rhythmic-mutation lens.
+- Immediate transition: UNKNOWN at `Amor → Dr Bongo → Baghdad`; neither handoff nor phrase relation was heard or documented.
+- Five-track consequence: FAIL proportionally through `Té de Cabello Blanco → Ikoyi → Amor → Dr Bongo → Baghdad`. *Amor* already performs the machine-to-hand-drum mutation and *Baghdad* already forms the bass-percussion lock; the candidate supplies another complete rolling-percussion stage between those established tasks.
+- Long-form effect: FAIL at this placement. The exact 3:46.648 insertion increases articulation without changing *Baghdad* or *Elemental Dream*'s following self-stripping work.
+- Verdict: placement-specific REJECT. The track remains genuinely interesting and is not globally rejected.
+- Unknown: individual development, endpoint, BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrasing and mixability.
+- Resolver warning: `Exact title/artist matched with release metadata variance: release date requested "2026-07-01" but Spotify returned "2026-06-25"`
+
+### Galaxy 2 Galaxy — Astral Apache — `spotify:track:4gKMXEIv5piKHsTd2mnMPX` — placement-specific REJECT
+
+Exact Spotify duration 320,453 ms; Spotify album *Galaxy 2 Galaxy: A High Tech Jazz Compilation*, release date 2005. [Juno](https://www.juno.co.uk/techno/charts/bestsellers/this-week/), checked 2026-09-16, describes the exact track as carrying intergalactic energy within an acid, synth-heavy jazz, analogue-drum and futuristic release world.
+
+- Volume fit: PASS. The techno-jazz proposition is a lawful conspicuous material change and is not rejected for style.
+- Immediate transition: UNKNOWN at `Pulse I → Astral Apache → Roxellana`; neither handoff, individual development nor endpoint was heard or documented.
+- Five-track consequence: FAIL proportionally through `Tehutis Law → Pulse I → Astral Apache → Roxellana → backsliding`. *Pulse I* already accumulates crooked pressure into *Roxellana*'s uncontained directed surge; the candidate adds another complete foreground without evidence that the surge or following dissolution receives different work.
+- Long-form effect: FAIL at this placement. The 5:20.453 state delays the existing accumulation-to-surge-to-dissolution relation rather than materially changing it.
+- Verdict: placement-specific REJECT. The track remains genuinely interesting and is not globally rejected.
+- Unknown: individual development, endpoint, BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrasing and mixability.
+- Resolver warning: `Exact title/artist matched with release metadata variance: album requested "Galaxy 2 Galaxy" but Spotify returned "Galaxy 2 Galaxy: A High Tech Jazz Compilation"; release date requested "2026-06-18" but Spotify returned "2005"`
+
+### Black Meteoric Star, Gavilán Rayna Russom — 5am Open Air Sunrise — `spotify:track:4MjOKTdPBfF1egVNN01bdx` — PARKED
+
+Exact Spotify duration 282,500 ms; Spotify album *Wet*, release date 2026-09-16. The [artist-hosted release page](https://blackmeteoricstar.bandcamp.com/album/wet), checked 2026-09-16, places the exact title inside Black Meteoric Star's dance-music, electro and political-spiritual project; Juno describes the album's world as sleek, stripped-back electro with sci-fi overtones and retro machines. Neither source establishes the title track's individual development or endpoint.
+
+- Volume fit: provisional PASS. A stripped electro horizon is a credible adjacent-world proposition.
+- Immediate transition: UNKNOWN at `Foundry → 5am Open Air Sunrise → Worn Down`.
+- Five-track consequence: UNKNOWN through `Tecky Alexander → Foundry → 5am Open Air Sunrise → Worn Down → Atlantis`.
+- Long-form effect: UNKNOWN. The decision-critical uncertainty is whether the candidate leaves a defined horizon for *Worn Down* to compress or diffuses before its exit; release-level framing cannot choose responsibly between those outcomes.
+- Verdict: PARKED pending materially richer individual trajectory or endpoint evidence, lawful audio evidence, changed journey need or explicit listener evidence.
+- Unknown: individual materials, development, endpoint, both handoffs, BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrasing and mixability.
+
+### Unresolved identities — no musical verdict
+
+- Model 500 — *IDLE*: `no exact Spotify title/artist search match in market SE`
+- Thor & Luke Hess — *Induction*: `no exact Spotify title/artist search match in market SE`
+- K Alexi Shelby — *House Music De Chicago*: `no exact Spotify title/artist search match in market SE`
+- Mark Ambrose — *Reflections*: `no exact Spotify title/artist search match in market SE`
+- Underground Resistance — *Midnight Sunshine*: `no exact Spotify title/artist search match in market SE`
+- Investigations Of A Dog — *11 July*: `no exact Spotify title/artist search match in market SE`
+
+### Workflow health
+
+The pre-commit placement guard passed the exact intended Run 293 request on first use, and one immutable request reached a successful terminal snapshot. Six of nine identities were unavailable in Spotify market SE; the three selected exact identities received differentiated, evidence-bound verdicts. One release-level candidate was parked for a specific endpoint uncertainty, while two exact-track material propositions were rejected only at placements where they duplicated already articulated downstream work. No recurring shared-release, placement-search or resolver-lifecycle defect is reproduced, so no actionable process repair emerges.
+
+### Auditor decision
+
+APPROVED. Pre-audit lawfully selected EXPLORE; approximately 103 inspected items produced nine fresh leads from nine releases, prior persistent identities were excluded, recent boundaries were avoided and the validated immutable request matches the terminal snapshot. Only the three selected exact identities were evaluated at volume, immediate-transition, five-track and long-form scales. The two rejections are placement-specific and rest on proportional duplication rather than absent audio; the PARKED verdict names a concrete decision-critical uncertainty. Unresolved identities receive no musical verdict, both protected internal handoffs remain untouched, the global utility retention rule is followed and no metadata-only BPM, energy or mixability claim was made.
+
+Audio analysis and live mixing were not tested.
+
 ## Run 292 — 2026-09-16T04:48:40Z-explore-292
 
 Matching resolver snapshot: schemaVersion 2, sourceCommit `b2c4e14a8ec7ce34dee69cb6aba366a292dffd65`, requestFingerprint `e4714658a5cbf6a70bc750f266d0467ec326c6ab25f4e3a941898e4348284728`, generated 2026-09-16T04:56:19.612Z, PARTIAL. Immutable request commit `29f563ab6e5eaf38677dd125cf69c90e8e5127ad`; resolver workflow `35057524930`; terminal snapshot commit `4491e59a9e77ba29715ca6aaca4b0039094254f4`. Requested 9; resolved 5; selected 3; two exact unselected alternates; four unresolved; two metadata-variance warnings; no duplicates, substitutions, relinkings or terminal technical failure.

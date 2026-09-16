@@ -3,6 +3,22 @@ Total output lines: 1901
 
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 293
+
+### Formed material is not changed consequence
+
+**Direction:** Test percussion, techno-jazz and stripped-electro propositions by the condition they leave for the successor, not by vivid material identity alone.
+
+**Ingredients:**
+
+- *Té de Cabello Blanco* → *Ikoyi* → *Amor* → Luke Alessi — *Dr Bongo* → *Baghdad* → *Elemental Dream* — placement-specific REJECT; another rolling percussion formation repeats the existing machine-to-hand-drum-to-lock articulation without changing the lock or its dissolution
+- *Tehutis Law* → *Pulse I* → Galaxy 2 Galaxy — *Astral Apache* → *Roxellana* → *backsliding* — placement-specific REJECT; techno-jazz foreground delays the existing accumulation-to-surge-to-dissolution relation without changing it
+- *Tecky Alexander* → *Foundry* → Black Meteoric Star — *5am Open Air Sunrise* → *Worn Down* → *Atlantis* — PARKED; the release world supports a stripped electro horizon, but individual development and endpoint are decision-critical unknowns
+- Model 500, Thor / Luke Hess, K Alexi Shelby, Mark Ambrose, Underground Resistance and Investigations Of A Dog — unresolved exact-title research directions without musical verdict
+- preserve `Transparency → When We Froze → Stardancer` as a listener-protected internal block
+
+**Working principle:** A vivid material state becomes structural when its exit changes the successor's work; release-world identity alone cannot establish that exit.
+
 ## Current additions — Run 292
 
 ### A formed summit creates a consequential reduction
