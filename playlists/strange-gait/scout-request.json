@@ -2,29 +2,29 @@
   "schemaVersion": 2,
   "mode": "EXPLORE",
   "target": "playlists/strange-gait",
-  "runId": "2026-09-16T01:50:55Z-explore-289",
-  "sourceCommit": "6f2b843e60898917cbdb0575ec03068a75e322d7",
+  "runId": "2026-09-16T02:53:53Z-explore-290",
+  "sourceCommit": "45acad35266cb2c29002eb769fd812d76c6030ef",
   "explorationReceipt": {
-    "approximateInspectedScope": "Approximately 98 named tracks and releases across current official Bandcamp pages, current Juno techno/minimal/dub and adjacent dance windows, recent label catalogues, overlooked 2025–2026 material and the full 64-track canonical boundary map. Written attributed descriptions and exact listings only; no audio audition.",
+    "approximateInspectedScope": "Approximately 104 named tracks and releases across current Waveform Transmitter, Juno, Boomkat and Profile Music windows, current and adjacent label catalogues, overlooked catalogue material and the full 64-track canonical boundary map. Written attributed descriptions and exact listings only; no audio audition.",
     "exclusions": [
       "All required canonical, discussion, revisit, history, map and publication state passed pre-audit; no objective, listener-authorized, revisit or workflow-health REPAIR is actionable.",
       "Every canonical, previously evaluated, PARKED, placement-specific REJECT, preserved exact alternate, unresolved exact identity and repository-wide utility identity was excluded; same-title tracks by different artists were not conflated.",
       "Nine leads come from nine releases; no release supplies more than one lead and no shared release framing is used to select multiple titles.",
       "Planned boundaries avoid those evaluated in the previous five completed discovery runs.",
       "Current-release scanning is balanced with adjacent and overlooked catalogue material rather than treated as a recency quota.",
-      "Retailer and official-label prose is attributed rather than measured; identity, duration and all other musical dimensions require resolver or lawful evidence.",
-      "Neither listener-protected internal handoff is split; the one post-trio placement follows Stardancer."
+      "Retailer, magazine and artist prose is attributed rather than measured; identity, duration and all other musical dimensions require resolver or lawful evidence.",
+      "Neither listener-protected internal handoff is split."
     ],
     "rankedLeadSummary": [
-      "1. Shonky — Centro Sociale",
-      "2. Bruno Pronsato — Sue Can Wait",
-      "3. Yansima — Catchplay",
-      "4. Tywi — Off Axis",
-      "5. Ilario Liburni — What Is Time Travel",
-      "6. Hiss Is Bliss — Euterpe",
-      "7. The Dining Rooms — On & On - Futureslowdubdisco Remix",
-      "8. The Trip — Body Talk",
-      "9. Deadbeat — Dopa"
+      "1. Fizch — Oxidized",
+      "2. Dayzero — Blur",
+      "3. styn — wormhole",
+      "4. Perc & Barbosa — One",
+      "5. RARÓG — Dark Sun",
+      "6. Blake Baxter — One More Time",
+      "7. Fleck E.S.C. — Interior Reset",
+      "8. The DirtBirdz — Death March",
+      "9. Velvet Velour — Energize"
     ],
     "sourcesCheckedAt": "2026-09-16",
     "audioAnalysis": "NOT TESTED",
@@ -32,308 +32,308 @@
   },
   "leads": [
     {
-      "artist": "Shonky",
-      "track": "Centro Sociale",
-      "album": "EP",
-      "releaseDate": "2026-09-14",
+      "artist": "Fizch",
+      "track": "Oxidized",
+      "album": "Foundry Code",
+      "releaseDate": "2026-08-17",
       "bpm": null,
       "bpmSource": null,
       "spotifyTrackId": null,
-      "discoverySource": "https://shonky.bandcamp.com/album/ep",
+      "discoverySource": "https://www.waveformtransmitter.com/p/fizch-foundry-code",
       "searchIntent": "BOTH",
       "evidence": {
         "craftConvention": "A material state earns canonical placement only when its exit creates useful downstream consequence.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Shonky's official page frames the release as solid and trippy, with four vinyl tracks that hit differently while dissolving house/techno boundaries.",
-        "editorialInterpretation": "The release context supports a heads-down, shape-shifting club proposition; this title's individual development and endpoint remain unknown.",
+        "attributedDescription": "Waveform Transmitter says Oxidized develops unhurriedly, uses several breakdowns to build tension in its first half, then lets a relentless groove take over, punctuated by echoing vocal snippets.",
+        "editorialInterpretation": "The exact-track description supplies a staged progression into a formed lock, making its exit structurally testable rather than merely stylistically compatible.",
         "measured": [
-          "Official page lists Centro Sociale at 7:17.",
-          "Market-SE identity requires resolver evidence."
+          "Article checked September 16, 2026.",
+          "Market-SE identity and exact duration require resolver evidence."
         ]
       },
-      "fitHypothesis": "A long trippy club state could make Marauder feel like a deliberate hardening rather than a direct continuation from the transformed overture.",
+      "fitHypothesis": "Its documented progression from staged breakdowns into relentless lock could give Drummz a fully formed state to destabilize.",
       "proposedPlacements": [
         {
-          "position": "Between Stadium Drive and Marauder",
-          "precedingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
-          "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": 136,
-          "purpose": "Test whether the candidate changes Marauder from opening anchor into a consequential hardening."
-        }
-      ]
-    },
-    {
-      "artist": "Bruno Pronsato",
-      "track": "Sue Can Wait",
-      "album": "EP2",
-      "releaseDate": "2026-09-07",
-      "bpm": null,
-      "bpmSource": null,
-      "spotifyTrackId": null,
-      "discoverySource": "https://logistic-records.bandcamp.com/album/ep2",
-      "searchIntent": "BOTH",
-      "evidence": {
-        "craftConvention": "A material state earns canonical placement only when its exit creates useful downstream consequence.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "The official EP2 page describes two raw, analog-driven, stripped-back and pressure-filled minimalist techno cuts.",
-        "editorialInterpretation": "The shared two-track framing supports concentrated analog pressure, but does not distinguish Sue Can Wait's development or endpoint.",
-        "measured": [
-          "Official page lists Sue Can Wait at 8:31.",
-          "Market-SE identity requires resolver evidence."
-        ]
-      },
-      "fitHypothesis": "A long stripped pressure state could give Trompe L'oeil a more consequential dubwise staggered reset after Never Met.",
-      "proposedPlacements": [
-        {
-          "position": "Between Never Met and Trompe L'oeil",
-          "precedingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
-          "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": 130,
-          "purpose": "Test whether pressure accumulated by the candidate changes Trompe L'oeil's reset task."
-        }
-      ]
-    },
-    {
-      "artist": "Yansima",
-      "track": "Catchplay",
-      "album": "Catchplay",
-      "releaseDate": "2026-08-26",
-      "bpm": null,
-      "bpmSource": null,
-      "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/products/yansima-catchplay-vinyl/1167095-01/",
-      "searchIntent": "BOTH",
-      "evidence": {
-        "craftConvention": "A material state earns canonical placement only when its exit creates useful downstream consequence.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno describes a globular groove loaded with sci-fi effects, wispy acid flashes and deep-ocean groans.",
-        "editorialInterpretation": "The exact-track description supplies a distinct unstable material state that could sharpen the early threshold.",
-        "measured": [
-          "Juno lists Catchplay at 7:14 and the release at August 26, 2026.",
-          "Market-SE identity requires resolver evidence."
-        ]
-      },
-      "fitHypothesis": "Its globular acid-and-groan state could make Worn Down's rumble-to-weight threshold feel like compression of a formed object.",
-      "proposedPlacements": [
-        {
-          "position": "Between Foundry and Worn Down",
-          "precedingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
-          "followingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
+          "position": "Between Dark Necessity and Drummz",
+          "precedingUri": "spotify:track:2kSeffr4MXOwACEmwFPhGK",
+          "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether the candidate supplies a formed unstable object that Worn Down materially compresses."
+          "purpose": "Test whether a staged breakdown-to-lock trajectory changes Drummz from another irregularity statement into disruption of an explicitly formed state."
         }
       ]
     },
     {
-      "artist": "Tywi",
-      "track": "Off Axis",
-      "album": "Suspended Memories",
-      "releaseDate": "2026-07-10",
+      "artist": "Dayzero",
+      "track": "Blur",
+      "album": "Soaring",
+      "releaseDate": "2026-09-18",
       "bpm": null,
       "bpmSource": null,
       "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/products/tywi-suspended-memories-vinyl/1159591-01/",
+      "discoverySource": "https://boomkat.com/products/soaring-6d049f7c-9d04-4038-a071-fd06608eee5b",
       "searchIntent": "BOTH",
       "evidence": {
         "craftConvention": "A material state earns canonical placement only when its exit creates useful downstream consequence.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno says Off Axis pushes the tempo against the EP's introspective dub core.",
-        "editorialInterpretation": "The exact-track contrast supports a driving off-axis proposition, while later development and endpoint remain undocumented.",
+        "attributedDescription": "Boomkat compares Blur to Shackleton's polyrhythmic fluency within a release spanning dubstep, dub techno, fleet-foot techno and dub steppers.",
+        "editorialInterpretation": "The exact-track comparison supports a fluid polyrhythmic proposition, while its development and endpoint remain undocumented.",
         "measured": [
-          "Juno lists Off Axis at 8:03 and the vinyl release at July 10, 2026.",
-          "Market-SE identity requires resolver evidence."
+          "Release page checked September 16, 2026.",
+          "Market-SE identity and exact duration require resolver evidence."
         ]
       },
-      "fitHypothesis": "A tempo-pushing off-axis phase could make Us In The Sand's internally disturbed beat-world arrive as reorientation rather than another disturbance.",
+      "fitHypothesis": "A fluent polyrhythmic state could make Truth in Noise's groove consolidation the consequence of self-stripping instability.",
       "proposedPlacements": [
         {
-          "position": "Between Silent Tension and Us In The Sand",
-          "precedingUri": "spotify:track:5itmPmAf94EtsfhSmTTEkg",
-          "followingUri": "spotify:track:0il4PYxomh6pH0aY4FSk9U",
+          "position": "Between Elemental Dream and Truth in Noise",
+          "precedingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
+          "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether the candidate changes Us In The Sand into reorientation after a longer temporal strain."
+          "purpose": "Test whether polyrhythmic fluency gives Truth in Noise a consequential consolidation task."
         }
       ]
     },
     {
-      "artist": "Ilario Liburni",
-      "track": "What Is Time Travel",
-      "album": "What Is Time Travel EP",
-      "releaseDate": "2026-05-21",
+      "artist": "styn",
+      "track": "wormhole",
+      "album": "wormhole / tikibad",
+      "releaseDate": "2026-07-09",
       "bpm": null,
       "bpmSource": null,
       "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/products/ilario-liburni-what-is-time-travel-ep-vinyl/1149644-01/",
+      "discoverySource": "https://www.waveformtransmitter.com/p/waveform-recommended-blake-baxter-perc-styn-and-more",
       "searchIntent": "BOTH",
       "evidence": {
         "craftConvention": "A material state earns canonical placement only when its exit creates useful downstream consequence.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno attributes chunky tribal motion, conscious spoken words and a loose-limbed groove weighted by dubstep-derived low end to the original mix.",
-        "editorialInterpretation": "The exact-track material could turn a passing-foreground hinge into a more embodied tribal threshold before Never Met.",
+        "attributedDescription": "Waveform Transmitter quotes styn calling wormhole a bridge into styles developed after the BLUPRNT album and describes the two-track release as high-NRG techno.",
+        "editorialInterpretation": "The artist's bridge framing makes this a directional portal proposition, though its individual endpoint remains unknown.",
         "measured": [
-          "Juno identifies the original mix and dates the release May 21, 2026.",
-          "Market-SE identity requires resolver evidence."
+          "Article checked September 16, 2026.",
+          "Market-SE identity and exact duration require resolver evidence."
         ]
       },
-      "fitHypothesis": "Its loose tribal weight could give Never Met a denser condition to thin and redirect after Sarniezz.",
+      "fitHypothesis": "A high-energy transitional portal could give Tides Alternate a specific accelerated object to balance after Hypnic Jerks.",
       "proposedPlacements": [
         {
-          "position": "Between Sarniezz and Never Met",
-          "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-          "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
+          "position": "Between Hypnic Jerks and Tides Alternate",
+          "precedingUri": "spotify:track:5diM5dnRKTuJaZ2CqzFwsu",
+          "followingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether the candidate makes Never Met's passing foreground a consequential thinning."
+          "purpose": "Test whether the candidate makes Tides Alternate balance and redirect an explicitly accelerated portal state."
         }
       ]
     },
     {
-      "artist": "Hiss Is Bliss",
-      "track": "Euterpe",
-      "album": "Terpenes EP",
-      "releaseDate": "2026-06-12",
+      "artist": "Perc & Barbosa",
+      "track": "One",
+      "album": "One",
+      "releaseDate": "2026-08-28",
       "bpm": null,
       "bpmSource": null,
       "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/products/hiss-is-bliss-terpenes-ep-vinyl/1146754-01/",
+      "discoverySource": "https://www.waveformtransmitter.com/p/waveform-recommended-blake-baxter-perc-styn-and-more",
       "searchIntent": "BOTH",
       "evidence": {
         "craftConvention": "A material state earns canonical placement only when its exit creates useful downstream consequence.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno describes Euterpe as comparatively numb yet compelling, built from scarring, swirling delays.",
-        "editorialInterpretation": "The exact-track description supplies a damaged suspended state whose placement can be judged beyond generic dub-techno compatibility.",
+        "attributedDescription": "Waveform Transmitter frames the Perc and Barbosa collaboration as raw, loopy and propulsive techno.",
+        "editorialInterpretation": "The shared two-track framing supports a stable propulsive state, but One's individual development and endpoint remain unknown.",
         "measured": [
-          "Juno lists Euterpe at 6:52 and the release at June 12, 2026.",
-          "Market-SE identity requires resolver evidence."
+          "Article checked September 16, 2026.",
+          "Market-SE identity and exact duration require resolver evidence."
         ]
       },
-      "fitHypothesis": "Its scarred delay field could make backsliding's rhythm-to-dissonance dissolution a more specific rupture after Roxellana.",
+      "fitHypothesis": "Raw loopy propulsion could make Humanoidz's drunken lurch rupture a stable drive rather than continue a broken formation.",
       "proposedPlacements": [
         {
-          "position": "Between Roxellana and backsliding",
-          "precedingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
-          "followingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
+          "position": "Between Freepass for Them and Humanoidz",
+          "precedingUri": "spotify:track:6W7R8Juu9iycysgvKB5IZW",
+          "followingUri": "spotify:track:1lha9e4J2T1mHL9ChS6uB7",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether the candidate changes backsliding from another dissolution into rupture of a suspended scarred field."
+          "purpose": "Test whether a stable propulsive state changes Humanoidz into a consequential rhythmic derailment."
         }
       ]
     },
     {
-      "artist": "The Dining Rooms",
-      "track": "On & On - Futureslowdubdisco Remix",
-      "album": "I Don't Know Why",
-      "releaseDate": "2025-10-23",
+      "artist": "RARÓG",
+      "track": "Dark Sun",
+      "album": "Dark Sun EP",
+      "releaseDate": "2026-09-25",
       "bpm": null,
       "bpmSource": null,
       "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/products/the-dining-rooms-i-dont-know-why-vinyl/1113598-01/",
+      "discoverySource": "https://www.waveformtransmitter.com/p/rarog-ignition-sequence-article",
       "searchIntent": "BOTH",
       "evidence": {
         "craftConvention": "A material state earns canonical placement only when its exit creates useful downstream consequence.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno says the remix transforms a soul ballad into a pensive, propulsive blend of dub, downtempo and minimal techno.",
-        "editorialInterpretation": "The exact remix framing supports a compact cross-world propulsion before the late contaminated-song disassembly.",
+        "attributedDescription": "Waveform Transmitter reports RARÓG ranking Dark Sun by the place he was trying to build rather than by room function.",
+        "editorialInterpretation": "The artist framing supports a constructed-world proposition; the track's precise material, development and endpoint remain unknown.",
         "measured": [
-          "Juno lists the remix at 4:22 and the single at October 23, 2025.",
-          "Market-SE identity requires resolver evidence; exact Spotify punctuation/version wording may differ and must not be substituted."
+          "Juno lists Dark Sun as the title track of the September 25, 2026 vinyl release.",
+          "Market-SE identity and exact duration require resolver evidence."
         ]
       },
-      "fitHypothesis": "Its pensive propulsion could make Jjochstubn's contaminated-song form feel like a breakdown of a recently restored pulse.",
+      "fitHypothesis": "A deliberately built place could make Night D3 Died's chorded-drum formation emerge from a defined world rather than direct widening.",
       "proposedPlacements": [
         {
-          "position": "Between Nukumori and Jjochstubn",
-          "precedingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
-          "followingUri": "spotify:track:5czyvXZq06uxrrKVp28FTb",
+          "position": "Between Tender Is The Night and Night D3 Died",
+          "precedingUri": "spotify:track:42WjfDtnP5Ktt8GzpPAwkq",
+          "followingUri": "spotify:track:2gGFSLPMYaslXwdbT9Vlpc",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether the candidate changes Jjochstubn into corruption of an explicit pensive propulsion."
+          "purpose": "Test whether the candidate establishes a world that Night D3 Died then converts into chorded rhythmic motion."
         }
       ]
     },
     {
-      "artist": "The Trip",
-      "track": "Body Talk",
-      "album": "Clubdance 2026",
-      "releaseDate": "2026-04-02",
+      "artist": "Blake Baxter",
+      "track": "One More Time",
+      "album": "One More Time",
+      "releaseDate": "2002-01-01",
       "bpm": null,
       "bpmSource": null,
       "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/products/the-trip-clubdance-2026-vinyl/1143488-01/",
+      "discoverySource": "https://www.waveformtransmitter.com/p/waveform-recommended-blake-baxter-perc-styn-and-more",
       "searchIntent": "BOTH",
       "evidence": {
         "craftConvention": "A material state earns canonical placement only when its exit creates useful downstream consequence.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno describes Body Talk as a percussive slow build blending dub-flecked early progressive house with muscular mid-1990s New York house.",
-        "editorialInterpretation": "The exact-track arc supports a bodily, slowly forming bridge before Roxellana's uncontained directed surge.",
+        "attributedDescription": "Waveform Transmitter places the title track in a Detroit-to-Berlin techno exchange, recorded in 1992 and released in 2002 alongside remixes by Moritz von Oswald and Thomas Fehlmann.",
+        "editorialInterpretation": "The historical bridge context suggests an inheritance proposition, but the title track's individual development and endpoint remain undocumented.",
         "measured": [
-          "Juno lists Body Talk at 5:06 and the release at April 2, 2026.",
-          "Market-SE identity requires resolver evidence."
+          "Article checked September 16, 2026.",
+          "Market-SE identity, release metadata and exact duration require resolver evidence."
         ]
       },
-      "fitHypothesis": "Its slow percussive build could give Roxellana a more fully formed bodily platform to overflow.",
+      "fitHypothesis": "A Detroit-Berlin bridge could make Where I Wanna Be's acid-vocal formation feel like a sharper reframing of inherited motion.",
       "proposedPlacements": [
         {
-          "position": "Between Pulse I and Roxellana",
-          "precedingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-          "followingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
+          "position": "Between Truth in Noise and Where I Wanna Be",
+          "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+          "followingUri": "spotify:track:2hUDsg1TEPrT4Cq3pISTWg",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether historical bridge context changes the acid-vocal formation into a consequential reframing."
+        }
+      ]
+    },
+    {
+      "artist": "Fleck E.S.C.",
+      "track": "Interior Reset",
+      "album": "Interior Reset",
+      "releaseDate": "2026-08-17",
+      "bpm": null,
+      "bpmSource": null,
+      "spotifyTrackId": null,
+      "discoverySource": "https://www.waveformtransmitter.com/p/waveform-recommended-blake-baxter-perc-styn-and-more",
+      "searchIntent": "BOTH",
+      "evidence": {
+        "craftConvention": "A material state earns canonical placement only when its exit creates useful downstream consequence.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "attributedDescription": "Waveform Transmitter identifies Interior Reset as the title track of an electro album and notes that the vinyl carries a trimmed edit while the full digital version is longer.",
+        "editorialInterpretation": "The title and dual-version framing support a reset proposition, while individual material, development and endpoint remain unknown.",
+        "measured": [
+          "Article checked September 16, 2026.",
+          "Market-SE identity and exact duration require resolver evidence."
+        ]
+      },
+      "fitHypothesis": "An electro reset could make Eyes of the Wind's liminal percussion feel like release from a clearly redefined frame after Migration.",
+      "proposedPlacements": [
+        {
+          "position": "Between Migration and Eyes of the Wind",
+          "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
+          "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether an electro reset gives Eyes of the Wind a consequential liminal-release function."
+        }
+      ]
+    },
+    {
+      "artist": "The DirtBirdz",
+      "track": "Death March",
+      "album": "Warcrimes",
+      "releaseDate": "2026-09-11",
+      "bpm": null,
+      "bpmSource": null,
+      "spotifyTrackId": null,
+      "discoverySource": "https://www.waveformtransmitter.com/p/dirtbirdz-death-march",
+      "searchIntent": "BOTH",
+      "evidence": {
+        "craftConvention": "A material state earns canonical placement only when its exit creates useful downstream consequence.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "attributedDescription": "Waveform Transmitter identifies Death March as the blistering techno opener of Warcrimes.",
+        "editorialInterpretation": "The exact-track description supports an early spike whose exit can be tested against The Witching Hour's controlled continuation.",
+        "measured": [
+          "Article checked September 16, 2026.",
+          "Market-SE identity and exact duration require resolver evidence."
+        ]
+      },
+      "fitHypothesis": "A blistering opener state could turn The Witching Hour into the disciplining and cooling of a deliberate spike.",
+      "proposedPlacements": [
+        {
+          "position": "Between Marauder and The Witching Hour",
+          "precedingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
+          "followingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
           "incomingBpm": 136,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether the candidate changes Roxellana into overflow from a formed slow build."
+          "purpose": "Test whether the candidate gives The Witching Hour a consequential disciplining task after a spike."
         }
       ]
     },
     {
-      "artist": "Deadbeat",
-      "track": "Dopa",
-      "album": "The Infinity Dub Sessions",
-      "releaseDate": "2026-06-22",
+      "artist": "Velvet Velour",
+      "track": "Energize",
+      "album": "Energize",
+      "releaseDate": "2026-06-01",
       "bpm": null,
       "bpmSource": null,
       "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/products/deadbeat-paul-st-the-infinity-dub-sessions-2026-vinyl/1135910-01/",
+      "discoverySource": "https://www.juno.co.uk/products/velvet-velour-energize-vinyl/1146223-01/",
       "searchIntent": "BOTH",
       "evidence": {
         "craftConvention": "A material state earns canonical placement only when its exit creates useful downstream consequence.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno places Dopa among spacious delay-soaked constructions with roots-inflected vocals that hold half- and double-time in productive ambiguity.",
-        "editorialInterpretation": "The exact-track attribution supports a vocal dub state whose ambiguous pulse could redirect the post-trio pivot.",
+        "attributedDescription": "Juno says Energize carries more swing, hints of garage and jittery drums.",
+        "editorialInterpretation": "The exact-track description supplies a clear unstable-groove proposition before Pulse I's crooked accumulation.",
         "measured": [
-          "Juno lists Dopa at 5:38 and the 2026 reissue at June 22, 2026.",
-          "Market-SE identity and the original-versus-reissue packaging require resolver evidence."
+          "Juno lists Energize at 6:04 and dates the release June 1, 2026.",
+          "Market-SE identity requires resolver evidence."
         ]
       },
-      "fitHypothesis": "Its half/double-time ambiguity could turn Migration into an explicit release from vocal dub suspension after Stardancer.",
+      "fitHypothesis": "Jittery swing after Tehutis Law's funk re-grounding could make Pulse I's crooked accumulation escalate a formed unstable groove.",
       "proposedPlacements": [
         {
-          "position": "Between Stardancer and Migration",
-          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-          "followingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
-          "incomingBpm": 137,
+          "position": "Between Tehutis Law and Pulse I",
+          "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
+          "followingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
+          "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether the candidate makes Migration a consequential post-trio release without splitting protected handoffs."
+          "purpose": "Test whether jittery swing makes Pulse I intensify rather than simply resume instability."
         }
       ]
     }
