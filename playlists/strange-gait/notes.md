@@ -22,7 +22,7 @@ No research scan, identity resolution, candidate evaluation, sequencing change o
 
 Workflow health: the immediately preceding scan needed four immutable request attempts, of which three (75%) failed before Spotify lookup for preventable transcription mismatches. This repair moves the existing production-grade placement checks to the pre-commit boundary and makes code-only CI exercise the tests. It does not prove that future research, identity resolution or musical evaluation will succeed; it removes the observed path by which known-invalid placement drafts entered immutable history.
 
-Auditor: APPROVED, conditional on the code-only workflow completing the 20-test lifecycle suite. The repair is repository-wide, preserves request immutability, changes no candidate or canonical state, and applies automatically if the recurring task is retargeted to another canonical playlist.
+Auditor: APPROVED. Repair commit `49c921f8f918680db6ba34e13b08fccb0bbce087` triggered code-only Spotify Scout workflow `35042089452`; it completed successfully at 2026-09-16T00:57:03Z, and the unconditional lifecycle-test step passed the 20-test suite. Request-only resolver steps correctly remained skipped because this repair created no Scout request. The repair is repository-wide, preserves request immutability, changes no candidate or canonical state, and applies automatically if the recurring task is retargeted to another canonical playlist.
 
 **Audio analysis: NOT TESTED. Live mixing: NOT TESTED.**
 
